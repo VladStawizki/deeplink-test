@@ -1,11 +1,31 @@
 {
-"applinks": {
+  "applinks": {
     "apps": [],
     "details": [
-    {
-        "appID": "1110145109.com.apple.mobilenotes",
-        "paths": [ "/notes/*"]
-    }
+      {
+        "appID": "8VZC6E7P5X.com.weightwatchers.wwmobile",
+        "paths": [
+          "NOT /allegro-connect",
+          "NOT /auth",
+          "/*",
+          "/notes/*"
+        ]
+      },
+      {
+        "appID": "D6YQNG76Q3.com.weightwatchers.wwmobile.ent",
+        "paths": [
+          "NOT /allegro-connect",
+          "NOT /auth",
+          "/*",
+          "/notes/*"
+        ]
+      }
     ]
-}
+  },
+  "appclips": {
+    "apps": [
+      "8VZC6E7P5X.com.weightwatchers.wwmobile.Clip",
+      "D6YQNG76Q3.com.weightwatchers.wwmobile.ent.Clip"
+    ]
+  }
 }
