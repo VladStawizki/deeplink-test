@@ -1,11 +1,11 @@
 {
-    "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appID": "com.apple.mobilenotes",
-          "paths": [ "/notes/*"]
-        }
-      ]
+"applinks": {
+    "apps": [],
+    "details": [
+    {
+        "appID": "1110145109.com.apple.mobilenotes",
+        "paths": [ "/notes/*"]
     }
-  }
+    ]
+}
+}
